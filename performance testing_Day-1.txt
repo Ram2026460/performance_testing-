@@ -1,0 +1,78 @@
+1.What is performance testing ? 
+Performance Testing is a type of software testing that checks how fast, stable, and scalable an application is under a specific workload. 
+scalability
+stability 
+durability
+why we do pt?
+*to check the application speed 
+*to handle real user load
+*to identify bottle necks
+*to ensure system stability 
+*to test scalability
+*to increase user experience
+*to avoid production failure 
+
+Diff Types Of testing ?
+Load Testing – Expected number of users
+Stress Testing – Beyond system capacity
+Spike Testing – Sudden traffic increase
+Soak (Endurance) Testing – Long duration load
+Scalability Testing – System growth capability
+Volume Testing – Large data handling 
+
+Diff between manual ,automation ,Functional, Performance Testing ? 
+functional------>Manual ,automation  
+non functional ---->performance testing 
+
+PT is usually measured In?
+RESPONSE TIME :time taken for a request to get response
+THROUGHPUT :number of request`s handled per second
+TPS :no; of transections done per second 
+LATENCY: delay between sending request and receiving response
+ERROR RATE: percentage of failed requests
+    
+different types types of PT Tools available in market ?  
+OPEN SOURCE---->APACHEJ METER,GATLING,K6
+COMERCIAL SOURCE---->LOAD RUNNER,NEO LOAD,BLAZE METER
+
+PT life cycle?
+REQIRED ANLAYASIS
+TEST PLANING
+TOOL SELECTIN
+SCRIPT DEVELOPMENT
+TEST EXECUTION
+MONITORING
+RESULT ANALAYASIS
+TUNING & REPORTING
+
+SDLC ?
+requirement gathering
+planning
+designing
+development(coding)
+testing
+deployment
+maintenance
+
+what is bug ?
+Bug = Difference between expected result and actual result
+
+Developer Tool how it works ?
+ 
+Application Architecture 
+basics of application architecture
+1.frontend
+2.backend
+3.database
+4.api
+
+what is server ,diff types? 
+server is a system that provide services or data to other system through a network
+web server
+application server
+database server 
+
+
+ 
+ 
+Defect
