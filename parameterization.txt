@@ -1,0 +1,16 @@
+parameterization?
+Instead of sending the same input data in every request (like the same username, ID, or search term), parameterization allows you to use different values for each virtual user or iteration.
+
+Why it’s important
+
+Without parameterization, your test might:
+
+Hit server-side caching (giving unrealistically fast results)
+Not simulate real-world usage
+Cause data conflicts (e.g., multiple users trying to log in with the same credentials)
+
+With parameterization, you:
+
+Mimic real user behavior
+Distribute load more naturally
+Get more accurate performance metrics
